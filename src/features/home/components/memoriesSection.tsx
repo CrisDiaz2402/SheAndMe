@@ -32,7 +32,7 @@ const MemoriesSection: React.FC<MemoriesSectionProps> = ({ specialMemories }) =>
                   <img
                     src={memory.image}
                     alt={memory.title}
-                    className="w-full md:w-32 h-32 object-cover rounded-xl shadow-md"
+                    className="w-full max-w-full md:w-32 h-32 object-cover rounded-xl shadow-md"
                   />
                   <div className="flex-grow">
                     <h3 className="text-xl font-serif text-gray-800 mb-2">{memory.title}</h3>

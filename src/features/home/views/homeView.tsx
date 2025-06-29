@@ -40,7 +40,7 @@ const HomeView: React.FC<HomeViewProps> = ({
   setIsPlaying,
 }) => {
   return (
-    <main className="max-w-6xl mx-auto px-4 py-8">
+    <main className="w-full max-w-2xl mx-auto px-2 sm:px-4 py-4 sm:py-8 overflow-x-hidden">
       {activeSection === 'home' && (
         <HomeSection romanticImages={romanticImages} currentImageIndex={currentImageIndex} />
       )}
