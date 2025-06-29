@@ -1,0 +1,45 @@
+{
+  "loveMessages": [
+    {
+      "id": 1,
+      "text": "Cada día a tu lado es una nueva aventura llena de amor y risas. Eres mi persona favorita en todo el universo.",
+      "date": "Para siempre"
+    },
+    {
+      "id": 2,
+      "text": "Tu sonrisa ilumina mis días más oscuros y tu abrazo es mi lugar seguro en este mundo.",
+      "date": "Desde el primer día"
+    },
+    {
+      "id": 3,
+      "text": "Eres la razón por la que creo en los cuentos de hadas. Contigo, cada momento se siente mágico.",
+      "date": "Te quiero mucho mi amor"
+    }
+  ],
+  "specialMemories": [
+    {
+      "id": 1,
+      "title": "Nuestro Primer Encuentro",
+      "description": "El momento en que nuestros ojos se cruzaron por primera vez, supe que algo especial estaba comenzando.",
+      "date": "El día que cambió todo",
+      "image": "https://images.pexels.com/photos/1024993/pexels-photo-1024993.jpeg?auto=compress&cs=tinysrgb&w=800"
+    },
+    {
+      "id": 2,
+      "title": "Primera Cita",
+      "description": "Nervios, risas y esa conexión instantánea que nos hizo hablar hasta altas horas de la madrugada.",
+      "date": "Una noche perfecta",
+      "image": "https://images.pexels.com/photos/1002638/pexels-photo-1002638.jpeg?auto=compress&cs=tinysrgb&w=800"
+    },
+    {
+      "id": 3,
+      "title": "Momentos Especiales",
+      "description": "Cada atardecer juntos, cada aventura compartida, cada pequeño momento que nos une más.",
+      "date": "Nuestros tesoros",
+      "image": "https://images.pexels.com/photos/1024960/pexels-photo-1024960.jpeg?auto=compress&cs=tinysrgb&w=800"
+    }
+  ],
+  "romanticImages": [
+
+  ]
+}
