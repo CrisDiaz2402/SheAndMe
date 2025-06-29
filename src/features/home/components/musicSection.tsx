@@ -1,6 +1,6 @@
 import React from 'react';
 import { Music } from 'lucide-react';
-import chachacha from '../../../assets/music/chachacha.mp3';
+import chachacha from '/assets/music/chachacha.mp3';
 
 interface MusicSectionProps {
   isPlaying: boolean;
