@@ -34,7 +34,7 @@ function App({ onLogout }: { onLogout?: () => void }) {
   }
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-pink-50 via-rose-50 to-purple-50 w-full max-w-full">
+    <div className="min-h-screen bg-gradient-to-br from-pink-50 via-rose-50 to-purple-50 w-full overflow-x-hidden">
       {/* Navigation */}
       <NavBar activeSection={activeSection} setActiveSection={setActiveSection} onLogout={onLogout} />
       {/* Main Content */}
