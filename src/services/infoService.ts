@@ -19,7 +19,7 @@ export interface InfoData {
 }
 
 export async function getInfoData(): Promise<InfoData> {
-  const response = await fetch('/info.json');
+  const response = await fetch('/data/info.json');
   if (!response.ok) throw new Error('No se pudo cargar info.json');
   return response.json();
 }
